@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">A passionate about Cloud, Security, Privacy and cats</h3>
 
-<iframe src="https://giphy.com/embed/MDJ9IbxxvDUQM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-kisses-hugs-MDJ9IbxxvDUQM">via GIPHY</a></p>
-
+![](https://github.com/RiveraTheCreator/RiveraTheCreator/blob/main/CatUwU.gif)
 - 🔭 I’m currently studing on [ESCOM](https://escom.ipn.mx/)
 
 - 🌱 I’m currently learning **Go**
