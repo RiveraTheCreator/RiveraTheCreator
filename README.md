@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">A passionate about Cloud, Security, Privacy and cats</h3>
+<h3 align="center">A passionate about Security, Privacy and Cats</h3>
 
 ![](https://github.com/RiveraTheCreator/RiveraTheCreator/blob/main/CatUwU.gif)
 - 🔭 I’m currently studing on [ESCOM](https://escom.ipn.mx/)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **BLOCKCHAIN**
 
 - 👯 I’m looking to collaborate on **Student Communities**
-
-- 📫 How to reach me in Telegram **AlejandroTheCreator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
