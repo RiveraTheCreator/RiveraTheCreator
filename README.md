@@ -4,9 +4,9 @@
 ![](https://github.com/RiveraTheCreator/RiveraTheCreator/blob/main/CatUwU.gif)
 - 🔭 I’m currently studing on [ESCOM](https://escom.ipn.mx/)
 
-- 🌱 I’m currently learning **BLOCKCHAIN**
+- 🌱 I’m currently learning **BLOCKCHAIN ( Hyperledger fabric )**
 
-- 👯 I’m looking to collaborate on **Student Communities**
+- 👯 I’m looking to collaborate on **Cibersecurity specialist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
