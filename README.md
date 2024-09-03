@@ -2,11 +2,11 @@
 <h3 align="center">A passionate about Security, Privacy and Cats</h3>
 
 ![](https://github.com/RiveraTheCreator/RiveraTheCreator/blob/main/CatUwU.gif)
-- 🔭 I’m currently studing on [ESCOM](https://escom.ipn.mx/)
+- 🔭 I’m currently doing research.
 
-- 🌱 I’m currently learning **BLOCKCHAIN ( Hyperledger fabric )**
+- 🌱 I’m currently learning **BLOCKCHAIN**
 
-- 👯 I’m looking to collaborate on **Cibersecurity specialist**
+- 👯 I’m looking to collaborate on **Cibersecurity specialist, Artist & Content creators**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
