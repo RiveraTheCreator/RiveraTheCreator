@@ -2,9 +2,9 @@
 <h3 align="center">A passionate about Security, Privacy and Cats</h3>
 
 ![](https://github.com/RiveraTheCreator/RiveraTheCreator/blob/main/CatUwU.gif)
-- 🔭 I’m currently doing research.
+- 🔭 I’m currently doing my thing.
 
-- 🌱 I’m currently learning **BLOCKCHAIN**
+- 🌱 I’m currently learning **Solidity**
 
 - 👯 I’m looking to collaborate on **Cibersecurity specialist, Artist & Content creators**
 
