@@ -4,7 +4,7 @@
 ![](https://github.com/RiveraTheCreator/RiveraTheCreator/blob/main/CatUwU.gif)
 - 🔭 I’m currently doing my thing.
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Sales**
 
 - 👯 I’m looking to collaborate on **Cibersecurity specialist, Artist & Content creators**
 
