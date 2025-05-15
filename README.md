@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">A passionate about Security, Privacy and Cats</h3>
+<h3 align="center">A passionate about Tech, Privacy and Cats</h3>
 
 ![](https://github.com/RiveraTheCreator/RiveraTheCreator/blob/main/CatUwU.gif)
-- 🔭 I’m currently doing my thing.
+- 🔭 I’m currently doing <a href="https://drive.proton.me/urls/9QJ6FGSGF4#IRKFxNG5V8Iu">my thing</a>.
 
 - 🌱 I’m currently learning **Sales**
 
