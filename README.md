@@ -2,11 +2,11 @@
 <h3 align="center">A passionate about Tech, Privacy and Cats</h3>
 
 ![](https://github.com/RiveraTheCreator/RiveraTheCreator/blob/main/CatUwU.gif)
-- 🔭 I’m currently doing <a href="https://drive.proton.me/urls/9QJ6FGSGF4#IRKFxNG5V8Iu">my thing</a>.
+- 🔭 I’m currently doing entrepprenur things</a>.
 
-- 🌱 I’m currently learning **Sales**
+- 🌱 I’m currently learning **n8n**
 
-- 👯 I’m looking to collaborate on **Cibersecurity specialist, Artist & Content creators**
+- 👯 I’m looking to collaborate on **Entreprenuers, Video Editor, Automations experts & Content creators**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
