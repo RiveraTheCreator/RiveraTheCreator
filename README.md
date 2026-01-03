@@ -2,12 +2,11 @@
 <h3 align="center">A passionate about Tech, Privacy and Cats</h3>
 
 ![](https://github.com/RiveraTheCreator/RiveraTheCreator/blob/main/CatUwU.gif)
-- 🔭 I’m currently doing entrepprenur things</a>.
+- 🔭 I'm currently searching for **remote USD opportunities** in Tech Support, Data Operations, Customer Success, and Automation roles 
 
-- 🌱 I’m currently learning **n8n**
+- 🌱 I'm currently learning **n8n, Zapier, Make** and no-code automation tools to build my agency toolkit
 
-- 👯 I’m looking to collaborate on **Entreprenuers, Video Editor, Automations experts & Content creators**
-
+- 👯 I'm looking to collaborate with **Entrepreneurs, Automation experts, Content creators & Startup founders** in roles that combine operations with strategic networking 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://imgs.search.brave.com/1L5BnS6663xuNUHJvCLUKuBI6SPdA3uZwLJq6ajZmpc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmlt/Z2ZsaXAuY29tLzIv/OGJxMDdkLmpwZw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alejandro-rivera-96aba4206/" height="30" width="40" /></a>
