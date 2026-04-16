@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">A passionate about Tech, Privacy and Cats</h3>
+<h3 align="center">A passionate about Tech, AI and Cats</h3>
 
 ![](https://github.com/RiveraTheCreator/RiveraTheCreator/blob/main/CatUwU.gif)
-- 🔭 I'm currently searching for **remote USD opportunities** in Tech Support, Data Operations, Customer Success, and Automation roles 
+- 🔭 I'm currently searching for **new opportunities** in Tech Support,Customer Success, and Automate sales 
 
-- 🌱 I'm currently learning **n8n, Zapier, Make** and no-code automation tools to build my agency toolkit
+- 🌱 I'm currently learning **Sales B2B** and no-code automation tools to build my agency toolkit
 
 - 👯 I'm looking to collaborate with **Entrepreneurs, Automation experts, Content creators & Startup founders** in roles that combine operations with strategic networking 
 <h3 align="left">Connect with me:</h3>
