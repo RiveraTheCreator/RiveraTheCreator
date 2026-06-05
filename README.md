@@ -2,7 +2,7 @@
 <h3 align="center">A passionate about Tech, AI and Cats</h3>
 
 ![](https://github.com/RiveraTheCreator/RiveraTheCreator/blob/main/CatUwU.gif)
-- 🔭 I'm currently searching for **new opportunities** in Tech Support,Customer Success, and Automate sales 
+- 🔭 I'm currently searching for **new opportunities** in Tech Support,AI Automations, and Automate sales 
 
 - 🌱 I'm currently learning **Sales B2B** and no-code automation tools to build my agency toolkit
 
